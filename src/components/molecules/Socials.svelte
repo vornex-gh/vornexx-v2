@@ -9,7 +9,7 @@
 </script>
 
 <div class="socials-container">
-	<Social tip="xafn" link="https://github.com/xafn">
+	<Social tip="vornex-gh" link="https://github.com/vornex-gh">
 		<GitHubIcon color="var(--accent)" />
 	</Social>
 
@@ -17,11 +17,11 @@
 		<DiscordIcon color="var(--accent)" />
 	</Social>
 
-	<Social tip="hey@afn.im" link="mailto:hey@afn.im">
+	<Social tip="ajay.ramnath@courvix.com" link="mailto:ajay.ramnath@courvix.com">
 		<MailIcon color="var(--accent)" />
 	</Social>
 
-	<Social tip="affan" link="https://ko-fi.com/affan">
+	<Social tip="Roblox profile" link="https://www.roblox.com/users/1016710675">
 		<CoffeeCupIcon color="var(--accent)" />
 	</Social>
 </div>

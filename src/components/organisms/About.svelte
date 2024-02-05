@@ -26,13 +26,13 @@
 			Hey there, I'm vornexx! 💖 I'm a <Tooltip tip={age}
 				><span>{Math.floor(Number(age))}</span></Tooltip
 			>
-			year old that is learning tech as I go, I usually use HTML and CSS, but I'm always open to learn about anything. Thanks to <span>afn.im</span> I would learn about <span>Svelte</span>. This website is also open-source
+			year old that is learning tech as I go, I usually use HTML and CSS, but I'm always open to learn about anything. Thanks to <span>afn.im</span> I learnt about <span>Svelte</span>. This website is also
 			<Tooltip tip="💝">
 				<a href="https://github.com/xafn/afn.im" target="_blank" rel="noreferrer">
-					<span>open source</span>
+					<span>open-source</span>
 				</a>
 			</Tooltip>
-			that's all.
+			, that's all for now.
 		</p>
 	</div>
 </section>
@@ -70,7 +70,7 @@
 
 	.text::before {
 		@include outlineText(
-			$content: 'vornexx',
+			$content: 'vor',
 			$translateX: 97%,
 			$translateY: -5%,
 			$fontSize: 300px,

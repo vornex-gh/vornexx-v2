@@ -7,10 +7,10 @@
 <footer class="wrapper">
 	<Socials />
 	<h6>
-		Made with pain. &#60;3
+		Forked from xafn's repo, check it out <button onclick="window.location='https://github.com/xafn';">here</button>! &#60;3
 		<Tooltip tip="you're here"><span>V2</span></Tooltip>
-		<Tooltip tip="how to delete">
-			<a href="https://v1.afn.im/" target="_blank" rel="noreferrer">V1</a>
+		<Tooltip tip="doo doo 💩">
+			<a href="https://vornexxv1.vercel.app/" target="_blank" rel="noreferrer">V1</a>
 		</Tooltip>
 	</h6>
 </footer>

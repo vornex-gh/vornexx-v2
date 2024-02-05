@@ -6,7 +6,7 @@
 	import type { Spotify } from '../../util/types';
 
 	let activity = `@${user.username}`,
-		details = 'Fetching...',
+		details = 'Retrieving Lanyard Information...',
 		activityImage = 'default.webp',
 		pulse = 30000,
 		activityNumber = 0,
@@ -27,7 +27,7 @@
 	};
 
 	function localTime() {
-		state = new Date().toLocaleTimeString('en-US', { timeZone: 'America/New_York' });
+		state = new Date().toLocaleTimeString('en-US', { timeZone: 'America/Port_of_Spain' });
 	}
 
 	function musicProgress(spotify: Spotify) {

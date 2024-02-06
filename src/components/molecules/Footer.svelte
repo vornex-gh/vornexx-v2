@@ -7,11 +7,9 @@
 <footer class="wrapper">
 	<Socials />
 	<h6>
-		Forked from xafn's repo, check it out <button onclick="window.location='https://github.com/xafn';">here</button>! &#60;3
-		<Tooltip tip="you're here"><span>V2</span></Tooltip>
-		<Tooltip tip="doo doo 💩">
-			<a href="https://vornexxv1.vercel.app/" target="_blank" rel="noreferrer">V1</a>
-		</Tooltip>
+		Forked from xafn's repo, check it out <button onclick="window.open('https://github.com/xafn', '_blank');">here</button>! &#60;3
+		<Tooltip tip="you're here"><span>V1</span></Tooltip>
+
 	</h6>
 </footer>
 

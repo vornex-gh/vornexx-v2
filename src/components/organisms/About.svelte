@@ -38,13 +38,32 @@
 					<span>click here</span>
 				</a>
 			</Tooltip>
-			, aside from this I also upload random .mp4 files now and then
-			<Tooltip tip="🎵">
-				<a href="https://cdn-vornexx.vercel.app" target="_blank" rel="noreferrer">
-					<span>here</span>
+		    , aside from this I use a 
+			<Tooltip tip="💻">
+				<a href="https://valid.x86.fr/y10l2a" target="_blank" rel="noreferrer">
+					<span>Dell Inspiron 3583</span>
 				</a>
 			</Tooltip>
+			as a main computer and I also use a 
+			<Tooltip tip="📞">
+				<a href="https://www.gsmarena.com/samsung_galaxy_a54-12070.php" target="_blank" rel="noreferrer">
+					<span>Samsung Galaxy A54 5G</span>
+				</a>
+			</Tooltip>
+			as a main phone that runs pretty well for a budget phone, basically a flagship from 2020/2021. If you care to watch, I shitpost monthly(strong maybe) on this
+			<Tooltip tip="📽️">
+				<a href="https://cdn-vornexx.vercel.app" target="_blank" rel="noreferrer">
+					<span>.mp4 dump site</span>
+				</a>
+			</Tooltip>
+		    . I also have a Rentry .md page you can view
+		    <Tooltip tip="✍️">
+			<a href="https://rentry.co/vornexx" target="_blank" rel="noreferrer">
+				<span>here</span>
+			</a>
+		    </Tooltip>
 			.
+			
 
 		</p>
 	</div>

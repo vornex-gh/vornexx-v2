@@ -38,17 +38,10 @@
 					<span>click here</span>
 				</a>
 			</Tooltip>
-<<<<<<< HEAD
 		    , aside from this I use a 
 			<Tooltip tip="💻">
 				<a href="https://valid.x86.fr/y10l2a" target="_blank" rel="noreferrer">
 					<span>Dell Inspiron 3583</span>
-=======
-			, aside from this I also upload random .mp4 files now and then
-			<Tooltip tip="📽️">
-				<a href="https://cdn-vornexx.vercel.app" target="_blank" rel="noreferrer">
-					<span>here</span>
->>>>>>> 96d7bd0e2c52d1363738be07e019c042924ad0c5
 				</a>
 			</Tooltip>
 			as a main computer and I also use a 
